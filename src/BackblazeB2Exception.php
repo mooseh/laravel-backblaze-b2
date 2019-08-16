@@ -1,7 +1,8 @@
 <?php
 
-namespace Gliterd\BackblazeB2;
+namespace Mooseh\BackblazeB2;
 
 class BackblazeB2Exception extends \Exception
 {
+    
 }
